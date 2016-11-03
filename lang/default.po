@@ -1,0 +1,3094 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Architect WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-21 02:01+0530\n"
+"PO-Revision-Date: 2014-10-21 02:02+0530\n"
+"Last-Translator: MyThemeShop <support-team@mythemeshop.com>\n"
+"Language-Team: MyThemeShop\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "Error 404 Not Found"
+msgstr ""
+
+#: 404.php:12
+msgid "Oops! We couldn't find this Page."
+msgstr ""
+
+#: 404.php:13
+msgid "Please check your URL or use the search form below."
+msgstr ""
+
+#: archive-portfolio.php:68 archive.php:52 page-blog.php:65 search.php:35
+msgid "&larr; Older posts"
+msgstr ""
+
+#: archive-portfolio.php:69 archive.php:53 page-blog.php:66 search.php:36
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: archive.php:9 archive.php:11 archive.php:13
+msgid " Archive"
+msgstr ""
+
+#: archive.php:15
+msgid "Daily Archive:"
+msgstr ""
+
+#: archive.php:17
+msgid "Monthly Archive:"
+msgstr ""
+
+#: archive.php:19
+msgid "Yearly Archive:"
+msgstr ""
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:16
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:16
+msgid "One Response"
+msgstr ""
+
+#: comments.php:16
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:42
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:46
+msgid "Comment Text*"
+msgstr ""
+
+#: comments.php:50
+msgid "Name*"
+msgstr ""
+
+#: comments.php:52 functions/contact-form.php:104
+msgid "Email*"
+msgstr ""
+
+#: comments.php:53
+msgid "Website"
+msgstr ""
+
+#: functions.php:176
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:196
+msgid "Default sidebar."
+msgstr ""
+
+#: functions.php:370
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:483
+msgid "Load More Posts"
+msgstr ""
+
+#: functions.php:484
+msgid "Loading..."
+msgstr ""
+
+#: functions.php:485
+msgid "No more posts."
+msgstr ""
+
+#: functions.php:694
+msgid "Author"
+msgstr ""
+
+#: functions.php:760
+msgid "( Edit )"
+msgstr ""
+
+#: functions.php:767
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:837
+msgid "Continue"
+msgstr ""
+
+#: functions.php:940
+msgid "Results"
+msgstr ""
+
+#: functions.php:942
+msgid "No results found."
+msgstr ""
+
+#: functions.php:1257 theme-options.php:1862
+msgid "Projects"
+msgstr ""
+
+#: functions.php:1258
+msgid "Project"
+msgstr ""
+
+#: header.php:51
+msgid "Search..."
+msgstr ""
+
+#: page-contact.php:23 page-parallax.php:25 page.php:18
+#: single-portfolio.php:66 single.php:30 singlepost-parallax.php:37
+#: functions/theme-actions.php:188
+msgid "Next"
+msgstr ""
+
+#: page-contact.php:23 page-parallax.php:25 page.php:18
+#: single-portfolio.php:66 single.php:30 singlepost-parallax.php:37
+msgid "Previous"
+msgstr ""
+
+#: search.php:8
+msgid "Search Results for:"
+msgstr ""
+
+#: search.php:24
+msgid ""
+"We apologize for any inconvenience, please hit back on your browser or use "
+"the search form below."
+msgstr ""
+
+#: searchform.php:5
+msgid "Search the site"
+msgstr ""
+
+#: sidebar.php:10 theme-options.php:2628
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:14
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:20
+msgid "Meta"
+msgstr ""
+
+#: single-portfolio.php:107
+msgid "Back Home"
+msgstr ""
+
+#: single.php:40 singlepost-parallax.php:47
+msgid "Tags"
+msgstr ""
+
+#: single.php:46 singlepost-parallax.php:53
+msgid "About The Author"
+msgstr ""
+
+#: theme-options.php:24
+msgid "A Section added by hook"
+msgstr ""
+
+#: theme-options.php:25
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array, great to allow child themes, to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: theme-options.php:94 theme-options.php:97
+msgid "Theme Options"
+msgstr ""
+
+#: theme-options.php:121
+msgid "Support"
+msgstr ""
+
+#: theme-options.php:122
+msgid ""
+"<p>If you are facing any problem with our theme or theme option panel, head "
+"over to our <a href=\"http://mythemeshop.com/support\">Knowledge Base</a></p>"
+msgstr ""
+
+#: theme-options.php:126
+msgid "Credit"
+msgstr ""
+
+#: theme-options.php:127
+msgid ""
+"<p>Options Panel created using the <a href=\"http://leemason.github.com/NHP-"
+"Theme-Options-Framework/\" target=\"_blank\">NHP Theme Options Framework</a> "
+"Version 1.0.5</p>"
+msgstr ""
+
+#: theme-options.php:131
+msgid "Earn Money"
+msgstr ""
+
+#: theme-options.php:132
+#, php-format
+msgid ""
+"<p>Earn 60% commision on every sale by refering your friends and readers. "
+"Join our <a href=\"http://mythemeshop.com/affiliate-program/\">Affiliate "
+"Program</a>.</p>"
+msgstr ""
+
+#: theme-options.php:142
+msgid "General Settings"
+msgstr ""
+
+#: theme-options.php:143
+msgid ""
+"<p class=\"description\">This tab contains common setting options which will "
+"be applied to the whole theme.</p>"
+msgstr ""
+
+#: theme-options.php:148
+msgid "Logo Image"
+msgstr ""
+
+#: theme-options.php:149
+msgid ""
+"Upload your logo using the Upload Button or insert image URL.(Recommended "
+"height 30px)"
+msgstr ""
+
+#: theme-options.php:154
+msgid "Favicon"
+msgstr ""
+
+#: theme-options.php:155
+msgid ""
+"Upload a <strong>16 x 16 px</strong> image that will represent your "
+"website's favicon. You can refer to this link for more information on how to "
+"make it: <a href=\"http://www.favicon.cc/\" target=\"blank\" rel=\"nofollow"
+"\">http://www.favicon.cc/</a>"
+msgstr ""
+
+#: theme-options.php:160 theme-options.php:1376
+#: functions/widget-tweets.php:120
+msgid "Twitter Username"
+msgstr ""
+
+#: theme-options.php:161
+msgid "Enter your Username here."
+msgstr ""
+
+#: theme-options.php:166
+msgid "FeedBurner URL"
+msgstr ""
+
+#: theme-options.php:167
+msgid ""
+"Enter your FeedBurner's URL here, ex: <strong>http://feeds.feedburner.com/"
+"mythemeshop</strong> and your main feed (http://example.com/feed) will get "
+"redirected to the FeedBurner ID entered here.)"
+msgstr ""
+
+#: theme-options.php:173
+msgid "Header Code"
+msgstr ""
+
+#: theme-options.php:174
+msgid ""
+"Enter the code which you need to place <strong>before closing </head> tag</"
+"strong>. (ex: Google Webmaster Tools verification, Bing Webmaster Center, "
+"BuySellAds Script, Alexa verification etc.)"
+msgstr ""
+
+#: theme-options.php:179
+msgid "Footer Code"
+msgstr ""
+
+#: theme-options.php:180
+msgid ""
+"Enter the codes which you need to place in your footer. <strong>(ex: Google "
+"Analytics, Clicky, STATCOUNTER, Woopra, Histats, etc.)</strong>."
+msgstr ""
+
+#: theme-options.php:185
+msgid "Copyrights Text"
+msgstr ""
+
+#: theme-options.php:186
+msgid ""
+"You can change or remove our link from footer and use your own custom text. "
+"(Link back is always appreciated)"
+msgstr ""
+
+#: theme-options.php:192
+msgid "Pagination Type"
+msgstr ""
+
+#: theme-options.php:193
+msgid "Select pagination type."
+msgstr ""
+
+#: theme-options.php:195
+msgid "Default (Next / Previous)"
+msgstr ""
+
+#: theme-options.php:196
+msgid "Numbered (1 2 3 4...)"
+msgstr ""
+
+#: theme-options.php:204
+msgid "AJAX Quick search"
+msgstr ""
+
+#: theme-options.php:206
+msgid ""
+"Enable or disable search results appearing instantly below the search form"
+msgstr ""
+
+#: theme-options.php:213
+msgid "Responsiveness"
+msgstr ""
+
+#: theme-options.php:215
+msgid ""
+"MyThemeShop themes are responsive, which means they adapt to tablet and "
+"mobile devices, ensuring that your content is always displayed beautifully "
+"no matter what device visitors are using. Enable or disable responsiveness "
+"using this option."
+msgstr ""
+
+#: theme-options.php:221
+msgid "Prefetching"
+msgstr ""
+
+#: theme-options.php:223
+msgid ""
+"Enable or disable prefetching. If user is on homepage, then single page will "
+"load faster and if user is on single page, homepage will load faster in "
+"modern browsers."
+msgstr ""
+
+#: theme-options.php:229
+msgid "Right To Left Language Support"
+msgstr ""
+
+#: theme-options.php:231
+msgid "Enable this option for right-to-left sites."
+msgstr ""
+
+#: theme-options.php:239
+msgid "Styling Options"
+msgstr ""
+
+#: theme-options.php:240
+msgid ""
+"<p class=\"description\">Control the visual appearance of your theme, such "
+"as colors, layout and patterns, from here.</p>"
+msgstr ""
+
+#: theme-options.php:245 functions/widget-fblikebox.php:101
+msgid "Color Scheme"
+msgstr ""
+
+#: theme-options.php:246
+msgid "The theme comes with unlimited color schemes for your theme's styling."
+msgstr ""
+
+#: theme-options.php:252
+msgid "Header Background Color"
+msgstr ""
+
+#: theme-options.php:253
+msgid "Pick a color for the Header background color."
+msgstr ""
+
+#: theme-options.php:259
+msgid "Header Background Pattern"
+msgstr ""
+
+#: theme-options.php:260
+msgid ""
+"Choose from any of <strong>63</strong> awesome background patterns for your "
+"header's background."
+msgstr ""
+
+#: theme-options.php:332
+msgid "Custom Header Background Image"
+msgstr ""
+
+#: theme-options.php:333
+msgid "Upload your own custom background image or pattern for Header."
+msgstr ""
+
+#: theme-options.php:338
+msgid "Custom CSS"
+msgstr ""
+
+#: theme-options.php:339
+msgid ""
+"You can enter custom CSS code here to further customize your theme. This "
+"will override the default CSS used on your site."
+msgstr ""
+
+#: theme-options.php:344
+msgid "Lightbox"
+msgstr ""
+
+#: theme-options.php:346
+msgid ""
+"A lightbox is a stylized pop-up that allows your visitors to view larger "
+"versions of images without leaving the current page. You can enable or "
+"disable the lightbox here."
+msgstr ""
+
+#: theme-options.php:354
+msgid "Header"
+msgstr ""
+
+#: theme-options.php:355
+msgid ""
+"<p class=\"description\">From here, you can control the elements of header "
+"section.</p>"
+msgstr ""
+
+#: theme-options.php:360
+msgid "Floating Header"
+msgstr ""
+
+#: theme-options.php:362
+msgid "Use this button to enable <strong>Floating Header</strong>."
+msgstr ""
+
+#: theme-options.php:368
+msgid "Show Logo"
+msgstr ""
+
+#: theme-options.php:370
+msgid "Use this button to Show or Hide <strong>Logo</strong> completely."
+msgstr ""
+
+#: theme-options.php:376
+msgid "Show Header Menu"
+msgstr ""
+
+#: theme-options.php:378
+msgid "Use this button to enable <strong>Primary Navigation Menu</strong>."
+msgstr ""
+
+#: theme-options.php:385
+msgid "Header Menu Search Form"
+msgstr ""
+
+#: theme-options.php:387
+msgid ""
+"Use this button to Show or Hide <strong>Search Form</strong> in Primary "
+"( header ) menu ."
+msgstr ""
+
+#: theme-options.php:397
+msgid "Home Layout"
+msgstr ""
+
+#: theme-options.php:398
+msgid ""
+"<p class=\"description\">>From here, you can control the elements of the "
+"homepage.</p>"
+msgstr ""
+
+#: theme-options.php:430 theme-options.php:438
+msgid "Slider"
+msgstr ""
+
+#: theme-options.php:431
+msgid ""
+"<p class=\"description\">From here, you can control the elements of the "
+"homepage.</p>"
+msgstr ""
+
+#: theme-options.php:436
+msgid "Custom Slider"
+msgstr ""
+
+#: theme-options.php:437
+msgid "You can set up a slider with custom image and text."
+msgstr ""
+
+#: theme-options.php:443 theme-options.php:599 theme-options.php:728
+#: theme-options.php:755 theme-options.php:899 theme-options.php:1028
+#: theme-options.php:1055 theme-options.php:1184 theme-options.php:1212
+#: theme-options.php:1547 theme-options.php:1868 theme-options.php:2030
+#: functions/widget-fblikebox.php:86
+msgid "Title"
+msgstr ""
+
+#: theme-options.php:444
+msgid "Title of the slide"
+msgstr ""
+
+#: theme-options.php:449 theme-options.php:877 theme-options.php:1033
+#: theme-options.php:1850
+msgid "Image"
+msgstr ""
+
+#: theme-options.php:450 theme-options.php:1851
+msgid "Upload or select an image for this slide."
+msgstr ""
+
+#: theme-options.php:454
+msgid "Button Label"
+msgstr ""
+
+#: theme-options.php:455
+msgid "Slide button text"
+msgstr ""
+
+#: theme-options.php:459
+msgid "Button Link"
+msgstr ""
+
+#: theme-options.php:460
+msgid "Insert a link URL for the slide button"
+msgstr ""
+
+#: theme-options.php:468 theme-options.php:611 theme-options.php:767
+#: theme-options.php:911 theme-options.php:1067 theme-options.php:1224
+#: theme-options.php:1390 theme-options.php:1559 theme-options.php:1723
+#: theme-options.php:1880 theme-options.php:2042
+msgid "Section text colors"
+msgstr ""
+
+#: theme-options.php:476 theme-options.php:619 theme-options.php:775
+#: theme-options.php:919 theme-options.php:1075 theme-options.php:1232
+#: theme-options.php:1398 theme-options.php:1567 theme-options.php:1731
+#: theme-options.php:1888 theme-options.php:2050 theme-options.php:2222
+msgid "Background Color"
+msgstr ""
+
+#: theme-options.php:477 theme-options.php:620 theme-options.php:776
+#: theme-options.php:920 theme-options.php:1076 theme-options.php:1233
+#: theme-options.php:1399 theme-options.php:1568 theme-options.php:1732
+#: theme-options.php:1889 theme-options.php:2051
+msgid "Edit the background color for the section"
+msgstr ""
+
+#: theme-options.php:485
+msgid "Disable slider images?"
+msgstr ""
+
+#: theme-options.php:486
+msgid ""
+"Turn this on to disable images and to apply the same background for each "
+"slide."
+msgstr ""
+
+#: theme-options.php:494 theme-options.php:626 theme-options.php:782
+#: theme-options.php:926 theme-options.php:1082 theme-options.php:1239
+#: theme-options.php:1405 theme-options.php:1574 theme-options.php:1738
+#: theme-options.php:1895 theme-options.php:2057 theme-options.php:2229
+msgid "Background Pattern"
+msgstr ""
+
+#: theme-options.php:495 theme-options.php:627 theme-options.php:783
+#: theme-options.php:927 theme-options.php:1083 theme-options.php:1240
+#: theme-options.php:1406 theme-options.php:1575 theme-options.php:1739
+#: theme-options.php:1896 theme-options.php:2058
+msgid "Choose one from the <strong>63</strong> awesome background patterns."
+msgstr ""
+
+#: theme-options.php:567 theme-options.php:699 theme-options.php:855
+#: theme-options.php:999 theme-options.php:1155 theme-options.php:1312
+#: theme-options.php:1478 theme-options.php:1647 theme-options.php:1811
+#: theme-options.php:1968 theme-options.php:2130
+msgid "Background Image"
+msgstr ""
+
+#: theme-options.php:568
+msgid "Edit the background image for the section."
+msgstr ""
+
+#: theme-options.php:575 theme-options.php:707 theme-options.php:863
+#: theme-options.php:1007 theme-options.php:1163 theme-options.php:1320
+#: theme-options.php:1486 theme-options.php:1655 theme-options.php:1819
+#: theme-options.php:1976 theme-options.php:2138
+msgid "Cover the section with Background Image"
+msgstr ""
+
+#: theme-options.php:576 theme-options.php:708 theme-options.php:864
+#: theme-options.php:1008 theme-options.php:1164 theme-options.php:1321
+#: theme-options.php:1487 theme-options.php:1656 theme-options.php:1820
+#: theme-options.php:1977 theme-options.php:2139
+msgid ""
+"Scale the background image to be as large as possible so that the background "
+"area is completely covered by the background image. Some parts of the "
+"background image may not be in view within the background positioning area"
+msgstr ""
+
+#: theme-options.php:583 theme-options.php:715 theme-options.php:871
+#: theme-options.php:1015 theme-options.php:1171 theme-options.php:1328
+#: theme-options.php:1494 theme-options.php:1663 theme-options.php:1827
+#: theme-options.php:1984 theme-options.php:2146
+msgid "Enable Parallax Background"
+msgstr ""
+
+#: theme-options.php:584
+msgid ""
+"Controls whether the slider background image has parallax scrolling enabled."
+msgstr ""
+
+#: theme-options.php:593
+msgid "Features"
+msgstr ""
+
+#: theme-options.php:594 theme-options.php:750
+msgid "<p class=\"description\">Choose what you would like to feature.</p>"
+msgstr ""
+
+#: theme-options.php:600 theme-options.php:756 theme-options.php:900
+#: theme-options.php:1056 theme-options.php:1213 theme-options.php:1548
+#: theme-options.php:1869 theme-options.php:2031
+msgid "Section Title"
+msgstr ""
+
+#: theme-options.php:605 theme-options.php:738 theme-options.php:761
+#: theme-options.php:905 theme-options.php:1038 theme-options.php:1061
+#: theme-options.php:1218 theme-options.php:1553 theme-options.php:1874
+#: theme-options.php:2036 functions/nav-menu.php:248
+msgid "Description"
+msgstr ""
+
+#: theme-options.php:606 theme-options.php:762 theme-options.php:906
+#: theme-options.php:1062 theme-options.php:1219 theme-options.php:1554
+#: theme-options.php:1875 theme-options.php:2037
+msgid "Section description"
+msgstr ""
+
+#: theme-options.php:700 theme-options.php:856 theme-options.php:1000
+#: theme-options.php:1156 theme-options.php:1313 theme-options.php:1479
+#: theme-options.php:1648 theme-options.php:1812 theme-options.php:1969
+#: theme-options.php:2131
+msgid "Edit the background image for the section"
+msgstr ""
+
+#: theme-options.php:716 theme-options.php:872 theme-options.php:1016
+#: theme-options.php:1172 theme-options.php:1329 theme-options.php:1495
+#: theme-options.php:1664 theme-options.php:1828 theme-options.php:1985
+#: theme-options.php:2147
+msgid "Controls whether the background image has parallax scrolling enabled."
+msgstr ""
+
+#: theme-options.php:721
+msgid ""
+"Add \"features\" to your homepage to promote specifics of your company, "
+"service, brand, etc."
+msgstr ""
+
+#: theme-options.php:723
+msgid "Feature"
+msgstr ""
+
+#: theme-options.php:733 theme-options.php:1195
+msgid "Icon"
+msgstr ""
+
+#: theme-options.php:749
+msgid "Introduction"
+msgstr ""
+
+#: theme-options.php:878
+msgid "Introduction Image."
+msgstr ""
+
+#: theme-options.php:879
+msgid ""
+"Add Front image which will overlap Background image and move the text to the "
+"left."
+msgstr ""
+
+#: theme-options.php:884
+msgid "Introduction Text"
+msgstr ""
+
+#: theme-options.php:893
+msgid "Services"
+msgstr ""
+
+#: theme-options.php:894
+msgid ""
+"<p class=\"description\">Manage the content displayed on the carousel.</p>"
+msgstr ""
+
+#: theme-options.php:1021
+msgid "Manage service items."
+msgstr ""
+
+#: theme-options.php:1023
+msgid "Service Item"
+msgstr ""
+
+#: theme-options.php:1049
+msgid "Counters"
+msgstr ""
+
+#: theme-options.php:1050
+msgid ""
+"<p class=\"description\">Manage the counters section on the homepage.</p>"
+msgstr ""
+
+#: theme-options.php:1177
+msgid "Counter section to display statistics."
+msgstr ""
+
+#: theme-options.php:1179
+msgid "Statistic"
+msgstr ""
+
+#: theme-options.php:1189
+msgid "Number"
+msgstr ""
+
+#: theme-options.php:1206
+msgid "Clients"
+msgstr ""
+
+#: theme-options.php:1207
+msgid ""
+"<p class=\"description\">Manage the content displayed on the client section."
+"</p>"
+msgstr ""
+
+#: theme-options.php:1337
+msgid "Items per slide"
+msgstr ""
+
+#: theme-options.php:1342
+msgid "Manage clients."
+msgstr ""
+
+#: theme-options.php:1344
+msgid "Client"
+msgstr ""
+
+#: theme-options.php:1348 theme-options.php:1676 theme-options.php:2549
+msgid "Name"
+msgstr ""
+
+#: theme-options.php:1353
+msgid "Logo"
+msgstr ""
+
+#: theme-options.php:1358
+msgid "Client url"
+msgstr ""
+
+#: theme-options.php:1370 theme-options.php:1696 theme-options.php:2451
+msgid "Twitter"
+msgstr ""
+
+#: theme-options.php:1371
+msgid ""
+"<p class=\"description\">From here, you can control Latest Tweets section on "
+"Homepage. (Same settings will be used if you have enabled Tweets section on "
+"Single Posts.)"
+msgstr ""
+
+#: theme-options.php:1381
+msgid "Tweet Count"
+msgstr ""
+
+#: theme-options.php:1382
+msgid "How many tweets should be displayed."
+msgstr ""
+
+#: theme-options.php:1502
+msgid "Auto rotation"
+msgstr ""
+
+#: theme-options.php:1503
+msgid "Checking this option will enable auto rotation of multiple tweets"
+msgstr ""
+
+#: theme-options.php:1508
+msgid ""
+"<p><strong>Note:</strong> Visit <a href=\"https://dev.twitter.com/apps/\" "
+"target=\"_blank\">this link</a> in a new tab, sign in with your account, "
+"click on Create a new application and create your own keys in case you don't "
+"have already</p>"
+msgstr ""
+
+#: theme-options.php:1513
+msgid "API key"
+msgstr ""
+
+#: theme-options.php:1514 theme-options.php:1520 theme-options.php:1526
+#: theme-options.php:1532
+msgid ""
+"This can be found in your Twitter Developer Application Management page."
+msgstr ""
+
+#: theme-options.php:1519
+msgid "API secret"
+msgstr ""
+
+#: theme-options.php:1525
+msgid "Access token"
+msgstr ""
+
+#: theme-options.php:1531
+msgid "Access token secret"
+msgstr ""
+
+#: theme-options.php:1541
+msgid "Team"
+msgstr ""
+
+#: theme-options.php:1542
+msgid ""
+"<p class=\"description\">Manage your team members and their contact "
+"information.</p>"
+msgstr ""
+
+#: theme-options.php:1669
+msgid "Add employees or team members for display on the homepage."
+msgstr ""
+
+#: theme-options.php:1671
+msgid "Team Member"
+msgstr ""
+
+#: theme-options.php:1681
+msgid "Photo"
+msgstr ""
+
+#: theme-options.php:1686
+msgid "Info"
+msgstr ""
+
+#: theme-options.php:1691
+msgid "Facebook"
+msgstr ""
+
+#: theme-options.php:1701 theme-options.php:2458
+msgid "Google Plus"
+msgstr ""
+
+#: theme-options.php:1706
+msgid "Instagram"
+msgstr ""
+
+#: theme-options.php:1717
+msgid "Testimonials"
+msgstr ""
+
+#: theme-options.php:1718
+msgid ""
+"<p class=\"description\">Manage the content displayed on the Testimonials "
+"section.</p>"
+msgstr ""
+
+#: theme-options.php:1833
+msgid "Manage Testimonials."
+msgstr ""
+
+#: theme-options.php:1835
+msgid "Testimonial"
+msgstr ""
+
+#: theme-options.php:1840
+msgid "Testimonial title"
+msgstr ""
+
+#: theme-options.php:1845
+msgid "Testimonial text"
+msgstr ""
+
+#: theme-options.php:1863
+msgid ""
+"<p class=\"description\">Manage the content displayed on the Projects "
+"section. You can manage portfolio items in the <a target=\"_blank\" href=\""
+msgstr ""
+
+#: theme-options.php:1990
+msgid "Layout"
+msgstr ""
+
+#: theme-options.php:1991
+msgid "Choose the layout."
+msgstr ""
+
+#: theme-options.php:2002
+msgid "No. of Projects - Homepage"
+msgstr ""
+
+#: theme-options.php:2003
+msgid "Enter the total number of projects you want to show on homepage."
+msgstr ""
+
+#: theme-options.php:2012
+msgid "No. of Projects - Projects page"
+msgstr ""
+
+#: theme-options.php:2013
+msgid "Enter the number of projects you want to show per page on Projects page"
+msgstr ""
+
+#: theme-options.php:2024
+msgid "Contact"
+msgstr ""
+
+#: theme-options.php:2025
+msgid ""
+"<p class=\"description\">Manage the content displayed on the contact section."
+"</p>"
+msgstr ""
+
+#: theme-options.php:2154
+msgid "Social icons"
+msgstr ""
+
+#: theme-options.php:2155
+msgid "Enable social icons."
+msgstr ""
+
+#: theme-options.php:2163 functions/CMB/example-functions.php:350
+msgid "Facebook URL"
+msgstr ""
+
+#: theme-options.php:2168 functions/CMB/example-functions.php:356
+msgid "Twitter URL"
+msgstr ""
+
+#: theme-options.php:2173 functions/CMB/example-functions.php:362
+msgid "Google+ URL"
+msgstr ""
+
+#: theme-options.php:2178
+msgid "LinkedIn URL"
+msgstr ""
+
+#: theme-options.php:2183
+msgid "Email Address"
+msgstr ""
+
+#: theme-options.php:2188
+msgid "Map Coordinates"
+msgstr ""
+
+#: theme-options.php:2189
+msgid ""
+"Enter the longitude and latitude or full address e.g. 47.6203394,-122.3491925"
+msgstr ""
+
+#: theme-options.php:2196
+msgid "Blog Layout"
+msgstr ""
+
+#: theme-options.php:2197
+msgid "<p class=\"description\">Control blog settings from here.</p>"
+msgstr ""
+
+#: theme-options.php:2202
+msgid "Layout Style"
+msgstr ""
+
+#: theme-options.php:2203
+msgid ""
+"Choose the <strong>default sidebar position</strong> for your site. The "
+"position of the sidebar for individual posts can be set in the post editor."
+msgstr ""
+
+#: theme-options.php:2213
+msgid "Posts on blog pages"
+msgstr ""
+
+#: theme-options.php:2215
+msgid ""
+"Show post excerpts or full posts on the homepage and other archive pages."
+msgstr ""
+
+#: theme-options.php:2223
+msgid "Pick a color for the site background color."
+msgstr ""
+
+#: theme-options.php:2230
+msgid ""
+"Choose from any of <strong>63</strong> awesome background patterns for your "
+"site's background."
+msgstr ""
+
+#: theme-options.php:2302
+msgid "Custom Background Image"
+msgstr ""
+
+#: theme-options.php:2303
+msgid "Upload your own custom background image or pattern."
+msgstr ""
+
+#: theme-options.php:2308
+msgid "Blog Page Post Meta Info."
+msgstr ""
+
+#: theme-options.php:2310
+msgid ""
+"Use this button to Show or Hide Post Meta Info on Blog Page. (<strong>Author "
+"name, Date etc.</strong>)."
+msgstr ""
+
+#: theme-options.php:2316 theme-options.php:2340
+msgid "Meta Info to Show"
+msgstr ""
+
+#: theme-options.php:2317 theme-options.php:2341
+msgid "Choose What Meta Info to Show."
+msgstr ""
+
+#: theme-options.php:2318 theme-options.php:2342
+msgid "Author Name"
+msgstr ""
+
+#: theme-options.php:2318 theme-options.php:2342
+msgid "Date"
+msgstr ""
+
+#: theme-options.php:2318 theme-options.php:2342
+msgid "Categories"
+msgstr ""
+
+#: theme-options.php:2318 theme-options.php:2342
+msgid "Comment Count"
+msgstr ""
+
+#: theme-options.php:2326
+msgid "Single Posts"
+msgstr ""
+
+#: theme-options.php:2327
+msgid ""
+"<p class=\"description\">From here, you can control the appearance and "
+"functionality of your single posts page.</p>"
+msgstr ""
+
+#: theme-options.php:2332
+msgid "Post Meta Info."
+msgstr ""
+
+#: theme-options.php:2334
+msgid ""
+"Use this button to Show or Hide Post Meta Info <strong>Author name and "
+"Categories</strong>."
+msgstr ""
+
+#: theme-options.php:2348
+msgid "Breadcrumbs"
+msgstr ""
+
+#: theme-options.php:2350
+msgid ""
+"Breadcrumbs are a great way to make your site more user-friendly. You can "
+"enable them by checking this box."
+msgstr ""
+
+#: theme-options.php:2356
+msgid "Highlight Author Comment"
+msgstr ""
+
+#: theme-options.php:2358
+msgid "Use this button to highlight author comments."
+msgstr ""
+
+#: theme-options.php:2364
+msgid "Tag Links"
+msgstr ""
+
+#: theme-options.php:2366
+msgid ""
+"Use this button if you want to show a tag cloud below the related posts."
+msgstr ""
+
+#: theme-options.php:2372 functions/theme-actions.php:264
+#: functions/widget-relatedposts.php:30
+msgid "Related Posts"
+msgstr ""
+
+#: theme-options.php:2377
+msgid ""
+"Use this button to show related posts with thumbnails below the content area "
+"in a post."
+msgstr ""
+
+#: theme-options.php:2386
+msgid "Related Posts Taxonomy"
+msgstr ""
+
+#: theme-options.php:2392
+msgid "Related Posts based on tags or categories."
+msgstr ""
+
+#: theme-options.php:2399
+msgid "Number of related posts"
+msgstr ""
+
+#: theme-options.php:2400
+msgid "Enter the number of posts to show in the related posts section."
+msgstr ""
+
+#: theme-options.php:2409
+msgid "Author Box"
+msgstr ""
+
+#: theme-options.php:2411
+msgid ""
+"Use this button if you want to display author information below the article."
+msgstr ""
+
+#: theme-options.php:2417
+msgid "Date in Comments"
+msgstr ""
+
+#: theme-options.php:2419
+msgid "Use this button to show the date for comments."
+msgstr ""
+
+#: theme-options.php:2427
+msgid "Social Buttons"
+msgstr ""
+
+#: theme-options.php:2428
+msgid ""
+"<p class=\"description\">Enable or disable social sharing buttons on single "
+"posts using these buttons.</p>"
+msgstr ""
+
+#: theme-options.php:2433
+msgid "Social Media Buttons"
+msgstr ""
+
+#: theme-options.php:2435
+msgid ""
+"Check this box to show social sharing buttons after an article's content "
+"text."
+msgstr ""
+
+#: theme-options.php:2442
+msgid "Social Sharing Buttons Position"
+msgstr ""
+
+#: theme-options.php:2443
+msgid "Above Content"
+msgstr ""
+
+#: theme-options.php:2443
+msgid "Below Content"
+msgstr ""
+
+#: theme-options.php:2443
+msgid "Floating"
+msgstr ""
+
+#: theme-options.php:2444
+msgid "Choose position for Social Sharing Buttons."
+msgstr ""
+
+#: theme-options.php:2465
+msgid "Facebook Like"
+msgstr ""
+
+#: theme-options.php:2472
+msgid "LinkedIn"
+msgstr ""
+
+#: theme-options.php:2479
+msgid "StumbleUpon"
+msgstr ""
+
+#: theme-options.php:2486
+msgid "Pinterest"
+msgstr ""
+
+#: theme-options.php:2495
+msgid "Ad Management"
+msgstr ""
+
+#: theme-options.php:2496
+msgid ""
+"<p class=\"description\">Now, ad management is easy with our options panel. "
+"You can control everything from here, without using separate plugins.</p>"
+msgstr ""
+
+#: theme-options.php:2501
+msgid "Below Post Title"
+msgstr ""
+
+#: theme-options.php:2502
+msgid ""
+"Paste your Adsense, BSA or other ad code here to show ads below your article "
+"title on single posts."
+msgstr ""
+
+#: theme-options.php:2507 theme-options.php:2523
+msgid "Show After X Days"
+msgstr ""
+
+#: theme-options.php:2508 theme-options.php:2524
+msgid ""
+"Enter the number of days after which you want to show the Below Post Title "
+"Ad. Enter 0 to disable this feature."
+msgstr ""
+
+#: theme-options.php:2517
+msgid "Below Post Content"
+msgstr ""
+
+#: theme-options.php:2518
+msgid ""
+"Paste your Adsense, BSA or other ad code here to show ads below the post "
+"content on single posts."
+msgstr ""
+
+#: theme-options.php:2535
+msgid "Sidebars"
+msgstr ""
+
+#: theme-options.php:2536
+msgid ""
+"<p class=\"description\">Now you have full control over the sidebars. Here "
+"you can manage sidebars and select one for each section of your site, or "
+"select a custom sidebar on a per-post basis in the post editor.<br></p>"
+msgstr ""
+
+#: theme-options.php:2541
+msgid "Custom Sidebars"
+msgstr ""
+
+#: theme-options.php:2542
+msgid ""
+"Add custom sidebars. <strong style=\"font-weight: 800;\">You need to save "
+"the changes to use the sidebars in the dropdowns below.</strong><br />You "
+"can add content to the sidebars in Appearance &gt; Widgets."
+msgstr ""
+
+#: theme-options.php:2543 functions/metaboxes.php:11
+msgid "Sidebar"
+msgstr ""
+
+#: theme-options.php:2550
+msgid "Example: Homepage Sidebar"
+msgstr ""
+
+#: theme-options.php:2555
+msgid "ID"
+msgstr ""
+
+#: theme-options.php:2556
+msgid ""
+"Enter a unique ID for the sidebar. Use only alphanumeric characters, "
+"underscores (_) and dashes (-), eg. \"sidebar-home\""
+msgstr ""
+
+#: theme-options.php:2564
+msgid "Homepage"
+msgstr ""
+
+#: theme-options.php:2565
+msgid "Select a sidebar for the homepage."
+msgstr ""
+
+#: theme-options.php:2572
+msgid "Single Post"
+msgstr ""
+
+#: theme-options.php:2573
+msgid ""
+"Select a sidebar for the single posts. If a post has a custom sidebar set, "
+"it will override this."
+msgstr ""
+
+#: theme-options.php:2580
+msgid "Single Page"
+msgstr ""
+
+#: theme-options.php:2581
+msgid ""
+"Select a sidebar for the single pages. If a page has a custom sidebar set, "
+"it will override this."
+msgstr ""
+
+#: theme-options.php:2588
+msgid "Archive"
+msgstr ""
+
+#: theme-options.php:2589
+msgid ""
+"Select a sidebar for the archives. Specific archive sidebars will override "
+"this setting (see below)."
+msgstr ""
+
+#: theme-options.php:2596
+msgid "Category Archive"
+msgstr ""
+
+#: theme-options.php:2597
+msgid "Select a sidebar for the category archives."
+msgstr ""
+
+#: theme-options.php:2604
+msgid "Tag Archive"
+msgstr ""
+
+#: theme-options.php:2605
+msgid "Select a sidebar for the tag archives."
+msgstr ""
+
+#: theme-options.php:2612
+msgid "Date Archive"
+msgstr ""
+
+#: theme-options.php:2613
+msgid "Select a sidebar for the date archives."
+msgstr ""
+
+#: theme-options.php:2620
+msgid "Author Archive"
+msgstr ""
+
+#: theme-options.php:2621
+msgid "Select a sidebar for the author archives."
+msgstr ""
+
+#: theme-options.php:2629
+msgid "Select a sidebar for the search results."
+msgstr ""
+
+#: theme-options.php:2636
+msgid "404 Error"
+msgstr ""
+
+#: theme-options.php:2637
+msgid "Select a sidebar for the 404 Not found pages."
+msgstr ""
+
+#: theme-options.php:2646
+msgid "Navigation"
+msgstr ""
+
+#: theme-options.php:2647
+msgid ""
+"<p class=\"description\"><div class=\"controls\">Navigation settings can now "
+"be modified from the <a href=\"nav-menus.php\"><b>Menus Section</b></a>."
+"<br></div></p>"
+msgstr ""
+
+#: functions/bfi-thumb.php:120
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: functions/bfi-thumb.php:235
+msgid "Image rotate failed."
+msgstr ""
+
+#: functions/bfi-thumb.php:257
+msgid "Image opacity change failed."
+msgstr ""
+
+#: functions/bfi-thumb.php:335
+msgid "Image color change failed."
+msgstr ""
+
+#: functions/bfi-thumb.php:351
+msgid "Image grayscale failed."
+msgstr ""
+
+#: functions/bfi-thumb.php:367
+msgid "Image negate failed."
+msgstr ""
+
+#: functions/contact-form.php:23 functions/contact-form.php:37
+msgid "An error occurred. Please contact site administrator."
+msgstr ""
+
+#: functions/contact-form.php:53 functions/contact-form.php:58
+msgid "Please try again."
+msgstr ""
+
+#: functions/contact-form.php:64
+msgid "Please enter your name."
+msgstr ""
+
+#: functions/contact-form.php:70
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: functions/contact-form.php:79
+msgid "Please enter a message."
+msgstr ""
+
+#: functions/contact-form.php:89
+msgid "Contact Form Message from"
+msgstr ""
+
+#: functions/contact-form.php:90
+msgid "Name:"
+msgstr ""
+
+#: functions/contact-form.php:91
+msgid "Email:"
+msgstr ""
+
+#: functions/contact-form.php:92
+msgid "Phone:"
+msgstr ""
+
+#: functions/contact-form.php:93
+msgid "Message:"
+msgstr ""
+
+#: functions/contact-form.php:103
+msgid "Full Name*"
+msgstr ""
+
+#: functions/contact-form.php:105
+msgid "Phone Number"
+msgstr ""
+
+#: functions/contact-form.php:114
+msgid "Send Message"
+msgstr ""
+
+#: functions/contact-form.php:117
+msgid "Message*"
+msgstr ""
+
+#: functions/contact-form.php:121
+msgid "Your message has been sent."
+msgstr ""
+
+#: functions/metaboxes.php:43 functions/CMB/init.php:262
+#: options/fields/sidebars_select/field_sidebars_select.php:43
+msgid "Default"
+msgstr ""
+
+#: functions/metaboxes.php:53
+msgid "No sidebar --"
+msgstr ""
+
+#: functions/metaboxes.php:58
+msgid "Default side"
+msgstr ""
+
+#: functions/metaboxes.php:59
+msgid "Left"
+msgstr ""
+
+#: functions/metaboxes.php:60
+msgid "Right"
+msgstr ""
+
+#: functions/metaboxes.php:136
+msgid "Template"
+msgstr ""
+
+#: functions/metaboxes.php:165
+msgid "Default Post Template"
+msgstr ""
+
+#: functions/metaboxes.php:166
+msgid "Parallax Template"
+msgstr ""
+
+#: functions/metaboxes.php:238
+msgid "Single Project Showcase"
+msgstr ""
+
+#: functions/metaboxes.php:246
+msgid ""
+"Image slider will display <a href=\"http://codex.wordpress.org/"
+"Using_Image_and_File_Attachments#Attachment_to_a_Post\" target=\"_blank"
+"\">attached images</a>."
+msgstr ""
+
+#: functions/metaboxes.php:250
+msgid "Featured Image"
+msgstr ""
+
+#: functions/metaboxes.php:251
+msgid "Image Slider"
+msgstr ""
+
+#: functions/metaboxes.php:258
+msgid "Enable parallax effect?"
+msgstr ""
+
+#: functions/metaboxes.php:267 functions/metaboxes.php:274
+msgid "Client Logo"
+msgstr ""
+
+#: functions/metaboxes.php:285 functions/metaboxes.php:292
+msgid "Client Testimonial"
+msgstr ""
+
+#: functions/metaboxes.php:302
+msgid "Custom project info"
+msgstr ""
+
+#: functions/metaboxes.php:309 functions/CMB/example-functions.php:291
+msgid "Entry {#}"
+msgstr ""
+
+#: functions/metaboxes.php:310 functions/CMB/example-functions.php:292
+msgid "Add Another Entry"
+msgstr ""
+
+#: functions/metaboxes.php:311 functions/CMB/example-functions.php:293
+msgid "Remove Entry"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: functions/nav-menu.php:157
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: functions/nav-menu.php:161
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: functions/nav-menu.php:202
+msgid "Edit Menu Item"
+msgstr ""
+
+#: functions/nav-menu.php:211
+msgid "URL"
+msgstr ""
+
+#: functions/nav-menu.php:218
+msgid "Navigation Label"
+msgstr ""
+
+#: functions/nav-menu.php:224
+msgid "Title Attribute"
+msgstr ""
+
+#: functions/nav-menu.php:231
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: functions/nav-menu.php:236
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: functions/nav-menu.php:242
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: functions/nav-menu.php:250
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: functions/nav-menu.php:259
+msgid "Icon (optional)"
+msgstr ""
+
+#: functions/nav-menu.php:262
+#: options/fields/icon_select/field_icon_select.php:74
+msgid "No Icon"
+msgstr ""
+
+#: functions/nav-menu.php:278
+msgid "Color (optional)"
+msgstr ""
+
+#: functions/nav-menu.php:289
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: functions/nav-menu.php:302 functions/CMB/helpers/cmb_Meta_Box_types.php:306
+#: functions/CMB/helpers/cmb_Meta_Box_types.php:706
+#: functions/CMB/helpers/cmb_Meta_Box_types.php:768
+#: options/fields/multi_text/field_multi_text.php:39
+#: options/fields/multi_text/field_multi_text.php:46
+#: options/fields/multi_text/field_multi_text.php:50
+msgid "Remove"
+msgstr ""
+
+#: functions/nav-menu.php:303
+msgid "Cancel"
+msgstr ""
+
+#: functions/plugin-activation.php:196 functions/plugin-activation.php:2282
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions/plugin-activation.php:197 functions/plugin-activation.php:2283
+msgid "Install Plugins"
+msgstr ""
+
+#: functions/plugin-activation.php:198 functions/plugin-activation.php:2284
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions/plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: functions/plugin-activation.php:210 functions/plugin-activation.php:2296
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions/plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: functions/plugin-activation.php:212 functions/plugin-activation.php:1951
+#: functions/plugin-activation.php:2297
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions/plugin-activation.php:213
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: functions/plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions/plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions/plugin-activation.php:544 functions/plugin-activation.php:2168
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: functions/plugin-activation.php:1174
+msgid "Private Repository"
+msgstr ""
+
+#: functions/plugin-activation.php:1177
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions/plugin-activation.php:1182
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions/plugin-activation.php:1185
+msgid "Required"
+msgstr ""
+
+#: functions/plugin-activation.php:1185
+msgid "Recommended"
+msgstr ""
+
+#: functions/plugin-activation.php:1188
+msgid "Not Installed"
+msgstr ""
+
+#: functions/plugin-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: functions/plugin-activation.php:1290 functions/plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: functions/plugin-activation.php:1312 functions/plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: functions/plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: functions/plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: functions/plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: functions/plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: functions/plugin-activation.php:1380
+msgid "Status"
+msgstr ""
+
+#: functions/plugin-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: functions/plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: functions/plugin-activation.php:1934
+msgid "Install package not available."
+msgstr ""
+
+#: functions/plugin-activation.php:1935
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: functions/plugin-activation.php:1936
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: functions/plugin-activation.php:1937
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: functions/plugin-activation.php:1938
+msgid "Plugin install failed."
+msgstr ""
+
+#: functions/plugin-activation.php:1939
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: functions/plugin-activation.php:1950
+msgid "Plugin activation failed."
+msgstr ""
+
+#: functions/plugin-activation.php:2064
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: functions/plugin-activation.php:2065
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: functions/plugin-activation.php:2065 functions/plugin-activation.php:2074
+msgid "Show Details"
+msgstr ""
+
+#: functions/plugin-activation.php:2065 functions/plugin-activation.php:2074
+msgid "Hide Details"
+msgstr ""
+
+#: functions/plugin-activation.php:2066
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: functions/plugin-activation.php:2067
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/plugin-activation.php:2071
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: functions/plugin-activation.php:2072
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: functions/plugin-activation.php:2073
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: functions/plugin-activation.php:2074
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: functions/plugin-activation.php:2075
+msgid "All installations have been completed."
+msgstr ""
+
+#: functions/plugin-activation.php:2076
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/plugin-activation.php:2285
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions/plugin-activation.php:2298
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions/theme-actions.php:120
+msgid "Home"
+msgstr ""
+
+#: functions/theme-actions.php:148
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: functions/theme-actions.php:155
+msgid "Tags: "
+msgstr ""
+
+#: functions/theme-actions.php:181
+msgid "Prev"
+msgstr ""
+
+#: functions/theme-actions.php:205
+msgid "My Account"
+msgstr ""
+
+#: functions/theme-actions.php:208
+msgid "Login / Register"
+msgstr ""
+
+#: functions/theme-actions.php:208
+msgid "Login "
+msgstr ""
+
+#: functions/theme-actions.php:212
+msgid "View your shopping cart"
+msgstr ""
+
+#: functions/widget-ad125.php:33
+msgid "A widget for 125 x 125 ad unit (max 6 ads)"
+msgstr ""
+
+#: functions/widget-ad125.php:44
+msgid "MyThemeShop: 125x125 Ads"
+msgstr ""
+
+#: functions/widget-ad125.php:202 functions/widget-ad300.php:118
+#: functions/widget-authorposts.php:41 functions/widget-catposts.php:42
+#: functions/widget-popular.php:43 functions/widget-postslider.php:32
+#: functions/widget-recentposts.php:41 functions/widget-relatedposts.php:41
+#: functions/widget-social.php:170
+msgid "Title:"
+msgstr ""
+
+#: functions/widget-ad125.php:208
+msgid "Ad 1 image url:"
+msgstr ""
+
+#: functions/widget-ad125.php:214
+msgid "Ad 1 link url:"
+msgstr ""
+
+#: functions/widget-ad125.php:220
+msgid "Ad 2 image url:"
+msgstr ""
+
+#: functions/widget-ad125.php:226
+msgid "Ad 2 link url:"
+msgstr ""
+
+#: functions/widget-ad125.php:232
+msgid "Ad 3 image url:"
+msgstr ""
+
+#: functions/widget-ad125.php:238
+msgid "Ad 3 link url:"
+msgstr ""
+
+#: functions/widget-ad125.php:244
+msgid "Ad 4 image url:"
+msgstr ""
+
+#: functions/widget-ad125.php:250
+msgid "Ad 4 link url:"
+msgstr ""
+
+#: functions/widget-ad125.php:256
+msgid "Ad 5 image url:"
+msgstr ""
+
+#: functions/widget-ad125.php:262
+msgid "Ad 5 link url:"
+msgstr ""
+
+#: functions/widget-ad125.php:268
+msgid "Ad 6 image url:"
+msgstr ""
+
+#: functions/widget-ad125.php:274
+msgid "Ad 6 link url:"
+msgstr ""
+
+#: functions/widget-ad125.php:280
+msgid "Randomize ads order?"
+msgstr ""
+
+#: functions/widget-ad300.php:33
+msgid "A widget for 300 x 250 ad (Single banner)"
+msgstr ""
+
+#: functions/widget-ad300.php:44
+msgid "MyThemeShop: 300x250 Ad"
+msgstr ""
+
+#: functions/widget-ad300.php:124
+msgid "Ad image url:"
+msgstr ""
+
+#: functions/widget-ad300.php:130
+msgid "Ad link url:"
+msgstr ""
+
+#: functions/widget-authorposts.php:14
+msgid "MyThemeShop: Author Posts"
+msgstr ""
+
+#: functions/widget-authorposts.php:15
+msgid ""
+"Display other posts written by the author of the current post. Will appear "
+"on single posts only."
+msgstr ""
+
+#: functions/widget-authorposts.php:30
+msgid "Author Posts"
+msgstr ""
+
+#: functions/widget-authorposts.php:46 functions/widget-catposts.php:62
+#: functions/widget-popular.php:54 functions/widget-postslider.php:48
+#: functions/widget-recentposts.php:46 functions/widget-relatedposts.php:46
+msgid "Number of Posts to show"
+msgstr ""
+
+#: functions/widget-authorposts.php:51 functions/widget-catposts.php:67
+#: functions/widget-popular.php:59 functions/widget-recentposts.php:51
+#: functions/widget-relatedposts.php:51
+msgid "Title Length:"
+msgstr ""
+
+#: functions/widget-authorposts.php:59 functions/widget-catposts.php:75
+#: functions/widget-popular.php:67 functions/widget-recentposts.php:59
+#: functions/widget-relatedposts.php:59
+msgid "Show Thumbnails"
+msgstr ""
+
+#: functions/widget-authorposts.php:64 functions/widget-catposts.php:80
+#: functions/widget-popular.php:72 functions/widget-recentposts.php:64
+#: functions/widget-relatedposts.php:64
+msgid "Posts layout:"
+msgstr ""
+
+#: functions/widget-authorposts.php:66 functions/widget-catposts.php:82
+#: functions/widget-popular.php:74 functions/widget-recentposts.php:66
+#: functions/widget-relatedposts.php:66
+msgid "Horizontal"
+msgstr ""
+
+#: functions/widget-authorposts.php:67 functions/widget-catposts.php:83
+#: functions/widget-popular.php:75 functions/widget-recentposts.php:67
+#: functions/widget-relatedposts.php:67
+msgid "Vertical"
+msgstr ""
+
+#: functions/widget-authorposts.php:74 functions/widget-catposts.php:90
+#: functions/widget-popular.php:82 functions/widget-recentposts.php:74
+#: functions/widget-relatedposts.php:74
+msgid "Show post date"
+msgstr ""
+
+#: functions/widget-authorposts.php:81 functions/widget-catposts.php:97
+#: functions/widget-popular.php:89 functions/widget-recentposts.php:81
+#: functions/widget-relatedposts.php:81
+msgid "Show number of comments"
+msgstr ""
+
+#: functions/widget-authorposts.php:88 functions/widget-catposts.php:104
+#: functions/widget-popular.php:96 functions/widget-recentposts.php:88
+#: functions/widget-relatedposts.php:88
+msgid "Show excerpt"
+msgstr ""
+
+#: functions/widget-authorposts.php:93 functions/widget-catposts.php:109
+#: functions/widget-popular.php:101 functions/widget-recentposts.php:93
+#: functions/widget-relatedposts.php:93
+msgid "Excerpt Length:"
+msgstr ""
+
+#: functions/widget-authorposts.php:187 functions/widget-catposts.php:197
+#: functions/widget-popular.php:204 functions/widget-recentposts.php:179
+#: functions/widget-relatedposts.php:190
+msgid " ago"
+msgstr ""
+
+#: functions/widget-catposts.php:14
+msgid "MyThemeShop: Category Posts"
+msgstr ""
+
+#: functions/widget-catposts.php:15
+msgid "Display the most recent posts from a single category"
+msgstr ""
+
+#: functions/widget-catposts.php:30
+msgid "Featured Category"
+msgstr ""
+
+#: functions/widget-catposts.php:46 functions/widget-postslider.php:36
+msgid "Category:"
+msgstr ""
+
+#: functions/widget-fblikebox.php:20
+msgid "Add Facebook Like Box."
+msgstr ""
+
+#: functions/widget-fblikebox.php:24
+msgid "MyThemeShop: FB Like Box"
+msgstr ""
+
+#: functions/widget-fblikebox.php:82
+msgid "Find us on Facebook"
+msgstr ""
+
+#: functions/widget-fblikebox.php:91
+msgid "Facebook Page URL"
+msgstr ""
+
+#: functions/widget-fblikebox.php:96
+msgid "Width"
+msgstr ""
+
+#: functions/widget-fblikebox.php:103
+msgid "light"
+msgstr ""
+
+#: functions/widget-fblikebox.php:104
+msgid "dark"
+msgstr ""
+
+#: functions/widget-fblikebox.php:110
+msgid "Show faces"
+msgstr ""
+
+#: functions/widget-fblikebox.php:115
+msgid "Show stream"
+msgstr ""
+
+#: functions/widget-fblikebox.php:120
+msgid "Show facebook header"
+msgstr ""
+
+#: functions/widget-popular.php:14
+msgid "MyThemeShop: Popular Posts"
+msgstr ""
+
+#: functions/widget-popular.php:15
+msgid "Displays most Popular Posts with Thumbnail."
+msgstr ""
+
+#: functions/widget-popular.php:31
+msgid "Popular Posts"
+msgstr ""
+
+#: functions/widget-popular.php:48
+msgid "Popular limit (days):"
+msgstr ""
+
+#: functions/widget-postslider.php:15
+msgid "MyThemeShop: Post Slider"
+msgstr ""
+
+#: functions/widget-postslider.php:16
+msgid "Display posts from multiple categories in an animated slider."
+msgstr ""
+
+#: functions/widget-postslider.php:22
+msgid "Featured Posts"
+msgstr ""
+
+#: functions/widget-postslider.php:55
+msgid "Show Title"
+msgstr ""
+
+#: functions/widget-recentposts.php:14
+msgid "MyThemeShop: Recent Posts"
+msgstr ""
+
+#: functions/widget-recentposts.php:15
+msgid "Display the most recent posts from all categories"
+msgstr ""
+
+#: functions/widget-recentposts.php:30
+msgid "Recent Posts"
+msgstr ""
+
+#: functions/widget-relatedposts.php:14
+msgid "MyThemeShop: Related Posts"
+msgstr ""
+
+#: functions/widget-relatedposts.php:15
+msgid ""
+"Display the related posts from current post's categories. Will appear on "
+"single posts only."
+msgstr ""
+
+#: functions/widget-social.php:58
+msgid "Facebook URI"
+msgstr ""
+
+#: functions/widget-social.php:62
+msgid "Behance URI"
+msgstr ""
+
+#: functions/widget-social.php:66
+msgid "Flickr URI"
+msgstr ""
+
+#: functions/widget-social.php:70
+msgid "Google+ URI"
+msgstr ""
+
+#: functions/widget-social.php:74
+msgid "Pinterest URI"
+msgstr ""
+
+#: functions/widget-social.php:78
+msgid "Instagram URI"
+msgstr ""
+
+#: functions/widget-social.php:82
+msgid "Dribbble URI"
+msgstr ""
+
+#: functions/widget-social.php:86
+msgid "Linkedin URI"
+msgstr ""
+
+#: functions/widget-social.php:90
+msgid "Soundcloud URI"
+msgstr ""
+
+#: functions/widget-social.php:94
+msgid "Twitter URI"
+msgstr ""
+
+#: functions/widget-social.php:98
+msgid "Vimeo URI"
+msgstr ""
+
+#: functions/widget-social.php:102
+msgid "StumbleUpon URI"
+msgstr ""
+
+#: functions/widget-social.php:106
+msgid "Tumblr URI"
+msgstr ""
+
+#: functions/widget-social.php:110
+msgid "GitHub URI"
+msgstr ""
+
+#: functions/widget-social.php:114
+msgid "YouTube URI"
+msgstr ""
+
+#: functions/widget-social.php:118
+msgid "FourSquare URI"
+msgstr ""
+
+#: functions/widget-social.php:122
+msgid "Reddit URI"
+msgstr ""
+
+#: functions/widget-social.php:126
+msgid "Dropbox URI"
+msgstr ""
+
+#: functions/widget-social.php:130
+msgid "Skype URI"
+msgstr ""
+
+#: functions/widget-social.php:134
+msgid "Email URI"
+msgstr ""
+
+#: functions/widget-social.php:138
+msgid "RSS URI"
+msgstr ""
+
+#: functions/widget-social.php:145
+msgid "Show profile icons."
+msgstr ""
+
+#: functions/widget-social.php:154
+msgid "MyThemeShop: Social Profile Icons"
+msgstr ""
+
+#: functions/widget-tweets.php:13
+msgid "A widget for showing latest tweets in sidebar"
+msgstr ""
+
+#: functions/widget-tweets.php:119
+msgid "API Key"
+msgstr ""
+
+#: functions/widget-tweets.php:119
+msgid "API Secret"
+msgstr ""
+
+#: functions/widget-tweets.php:119
+msgid "Access Token"
+msgstr ""
+
+#: functions/widget-tweets.php:120
+msgid "Access Token Secret"
+msgstr ""
+
+#: functions/widget-tweets.php:120
+msgid "Cache Tweets in every"
+msgstr ""
+
+#: functions/widget-tweets.php:121
+msgid "Number of tweets (max 20)"
+msgstr ""
+
+#: functions/CMB/example-functions.php:28
+msgid "Test Metabox"
+msgstr ""
+
+#: functions/CMB/example-functions.php:36
+#: functions/CMB/example-functions.php:270
+msgid "Test Text"
+msgstr ""
+
+#: functions/CMB/example-functions.php:37
+#: functions/CMB/example-functions.php:48
+#: functions/CMB/example-functions.php:55
+#: functions/CMB/example-functions.php:62
+#: functions/CMB/example-functions.php:70
+#: functions/CMB/example-functions.php:77
+#: functions/CMB/example-functions.php:89
+#: functions/CMB/example-functions.php:95
+#: functions/CMB/example-functions.php:102
+#: functions/CMB/example-functions.php:117
+#: functions/CMB/example-functions.php:125
+#: functions/CMB/example-functions.php:132
+#: functions/CMB/example-functions.php:138
+#: functions/CMB/example-functions.php:144
+#: functions/CMB/example-functions.php:156
+#: functions/CMB/example-functions.php:167
+#: functions/CMB/example-functions.php:178
+#: functions/CMB/example-functions.php:189
+#: functions/CMB/example-functions.php:197
+#: functions/CMB/example-functions.php:204
+#: functions/CMB/example-functions.php:212
+#: functions/CMB/example-functions.php:218
+#: functions/CMB/example-functions.php:230
+#: functions/CMB/example-functions.php:271
+#: functions/CMB/example-functions.php:337
+#: functions/CMB/example-functions.php:344
+#: functions/CMB/example-functions.php:351
+#: functions/CMB/example-functions.php:357
+#: functions/CMB/example-functions.php:363
+#: functions/CMB/example-functions.php:369
+#: functions/CMB/example-functions.php:375
+#: functions/CMB/example-functions.php:393
+msgid "field description (optional)"
+msgstr ""
+
+#: functions/CMB/example-functions.php:47
+msgid "Test Text Small"
+msgstr ""
+
+#: functions/CMB/example-functions.php:54
+msgid "Test Text Medium"
+msgstr ""
+
+#: functions/CMB/example-functions.php:61
+msgid "Website URL"
+msgstr ""
+
+#: functions/CMB/example-functions.php:69
+msgid "Test Text Email"
+msgstr ""
+
+#: functions/CMB/example-functions.php:76
+msgid "Test Time"
+msgstr ""
+
+#: functions/CMB/example-functions.php:82
+#: functions/CMB/example-functions.php:83
+msgid "Time zone"
+msgstr ""
+
+#: functions/CMB/example-functions.php:88
+msgid "Test Date Picker"
+msgstr ""
+
+#: functions/CMB/example-functions.php:94
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: functions/CMB/example-functions.php:101
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: functions/CMB/example-functions.php:116
+msgid "Test Money"
+msgstr ""
+
+#: functions/CMB/example-functions.php:124
+msgid "Test Color Picker"
+msgstr ""
+
+#: functions/CMB/example-functions.php:131
+msgid "Test Text Area"
+msgstr ""
+
+#: functions/CMB/example-functions.php:137
+msgid "Test Text Area Small"
+msgstr ""
+
+#: functions/CMB/example-functions.php:143
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: functions/CMB/example-functions.php:149
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: functions/CMB/example-functions.php:150
+msgid "This is a title description"
+msgstr ""
+
+#: functions/CMB/example-functions.php:155
+msgid "Test Select"
+msgstr ""
+
+#: functions/CMB/example-functions.php:160
+#: functions/CMB/example-functions.php:171
+#: functions/CMB/example-functions.php:182
+msgid "Option One"
+msgstr ""
+
+#: functions/CMB/example-functions.php:161
+#: functions/CMB/example-functions.php:172
+#: functions/CMB/example-functions.php:183
+msgid "Option Two"
+msgstr ""
+
+#: functions/CMB/example-functions.php:162
+#: functions/CMB/example-functions.php:173
+#: functions/CMB/example-functions.php:184
+msgid "Option Three"
+msgstr ""
+
+#: functions/CMB/example-functions.php:166
+msgid "Test Radio inline"
+msgstr ""
+
+#: functions/CMB/example-functions.php:177
+msgid "Test Radio"
+msgstr ""
+
+#: functions/CMB/example-functions.php:188
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: functions/CMB/example-functions.php:196
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: functions/CMB/example-functions.php:203
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: functions/CMB/example-functions.php:211
+msgid "Test Checkbox"
+msgstr ""
+
+#: functions/CMB/example-functions.php:217
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: functions/CMB/example-functions.php:222
+msgid "Check One"
+msgstr ""
+
+#: functions/CMB/example-functions.php:223
+msgid "Check Two"
+msgstr ""
+
+#: functions/CMB/example-functions.php:224
+msgid "Check Three"
+msgstr ""
+
+#: functions/CMB/example-functions.php:229
+msgid "Test wysiwyg"
+msgstr ""
+
+#: functions/CMB/example-functions.php:236
+msgid "Test Image"
+msgstr ""
+
+#: functions/CMB/example-functions.php:237
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: functions/CMB/example-functions.php:242
+msgid "Multiple Files"
+msgstr ""
+
+#: functions/CMB/example-functions.php:243
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: functions/CMB/example-functions.php:249
+msgid "oEmbed"
+msgstr ""
+
+#: functions/CMB/example-functions.php:250
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+
+#: functions/CMB/example-functions.php:262
+msgid "About Page Metabox"
+msgstr ""
+
+#: functions/CMB/example-functions.php:283
+msgid "Repeating Field Group"
+msgstr ""
+
+#: functions/CMB/example-functions.php:289
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: functions/CMB/example-functions.php:330
+msgid "User Profile Metabox"
+msgstr ""
+
+#: functions/CMB/example-functions.php:336
+msgid "Extra Info"
+msgstr ""
+
+#: functions/CMB/example-functions.php:343
+msgid "Avatar"
+msgstr ""
+
+#: functions/CMB/example-functions.php:368
+msgid "Linkedin URL"
+msgstr ""
+
+#: functions/CMB/example-functions.php:374
+msgid "User Field"
+msgstr ""
+
+#: functions/CMB/example-functions.php:388
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: functions/CMB/example-functions.php:392
+msgid "Site Background Color"
+msgstr ""
+
+#: functions/CMB/init.php:261
+msgid "Clear"
+msgstr ""
+
+#: functions/CMB/init.php:263
+msgid "Select Color"
+msgstr ""
+
+#: functions/CMB/init.php:264
+msgid "Current Color"
+msgstr ""
+
+#: functions/CMB/init.php:291
+msgid "Select / Deselect All"
+msgstr ""
+
+#: functions/CMB/init.php:1182
+#: options/google-typography/google-typography.php:308
+msgid "Save"
+msgstr ""
+
+#: functions/CMB/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: functions/CMB/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: functions/CMB/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: functions/CMB/helpers/cmb_Meta_Box_field.php:459
+msgid "Add Group"
+msgstr ""
+
+#: functions/CMB/helpers/cmb_Meta_Box_field.php:460
+msgid "Remove Group"
+msgstr ""
+
+#: functions/CMB/helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr ""
+
+#: functions/CMB/helpers/cmb_Meta_Box_types.php:601
+#: functions/CMB/helpers/cmb_Meta_Box_types.php:635
+msgid "No terms"
+msgstr ""
+
+#: functions/CMB/helpers/cmb_Meta_Box_types.php:674
+#: functions/CMB/helpers/cmb_Meta_Box_types.php:728
+msgid "Add or Upload File"
+msgstr ""
+
+#: functions/CMB/helpers/cmb_Meta_Box_types.php:695
+#: functions/CMB/helpers/cmb_Meta_Box_types.php:760
+msgid "Remove Image"
+msgstr ""
+
+#: functions/CMB/helpers/cmb_Meta_Box_types.php:706
+#: functions/CMB/helpers/cmb_Meta_Box_types.php:768
+msgid "File:"
+msgstr ""
+
+#: functions/CMB/helpers/cmb_Meta_Box_types.php:706
+#: functions/CMB/helpers/cmb_Meta_Box_types.php:768
+msgid "Download"
+msgstr ""
+
+#: home/section-projects.php:75
+msgid "All projects"
+msgstr ""
+
+#: home/section-twitter.php:13
+msgid "The section is not configured correctly"
+msgstr ""
+
+#: home/section-twitter.php:56
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: options/options.php:56 options/options.php:58
+msgid "Options"
+msgstr ""
+
+#: options/options.php:274
+msgid ""
+"Are you sure you want to reset ALL options to default (except theme "
+"translation)?"
+msgstr ""
+
+#: options/options.php:275
+msgid ""
+"Are you sure you want to reset translations? You will lose all translations."
+msgstr ""
+
+#: options/options.php:276
+msgid ""
+"Are you sure you want to import options? All current options will be lost."
+msgstr ""
+
+#: options/options.php:277
+msgid ""
+"Settings have changed, you should save them! Are you sure you want to leave "
+"this page?"
+msgstr ""
+
+#: options/options.php:664
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: options/options.php:666
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: options/options.php:670
+msgid "<strong>Settings have changed, you should save them!</strong>"
+msgstr ""
+
+#: options/options.php:671
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: options/options.php:673
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: options/options.php:706
+msgid "Typography"
+msgstr ""
+
+#: options/options.php:714
+msgid "Translate"
+msgstr ""
+
+#: options/options.php:722
+msgid "Import / Export"
+msgstr ""
+
+#: options/options.php:737 options/options.php:882
+msgid "Dev Mode Info"
+msgstr ""
+
+#: options/options.php:755
+msgid "Import / Export Options"
+msgstr ""
+
+#: options/options.php:759
+msgid "Preset Options"
+msgstr ""
+
+#: options/options.php:770
+msgid "Demo"
+msgstr ""
+
+#: options/options.php:772 options/options.php:798
+msgid "Import"
+msgstr ""
+
+#: options/options.php:782
+msgid "Import Options"
+msgstr ""
+
+#: options/options.php:790
+msgid ""
+"Insert your backup code below and hit Import to restore your site options "
+"from a backup."
+msgstr ""
+
+#: options/options.php:806
+msgid "Export Options"
+msgstr ""
+
+#: options/options.php:811
+msgid "Show Export Code"
+msgstr ""
+
+#: options/options.php:846
+msgid "Theme Translation Panel"
+msgstr ""
+
+#: options/options.php:848
+msgid ""
+"The theme translation panel provides an easy way to translate text appearing "
+"on your site, without the hassle of handling .po .mo files. Translations are "
+"saved instantly after typing in."
+msgstr ""
+
+#: options/options.php:849
+msgid "Reset translations"
+msgstr ""
+
+#: options/options.php:858
+msgid "Enable translation panel"
+msgstr ""
+
+#: options/options.php:862
+msgid "Search Translations"
+msgstr ""
+
+#: options/options.php:909
+msgid "Reset to Defaults"
+msgstr ""
+
+#: options/options.php:910
+msgid "Save Changes"
+msgstr ""
+
+#: options/options.php:1134
+#, php-format
+msgid ""
+"Translated <span class=\"translated\">%1$d</span> strings out of <span class="
+"\"total\">%2$d</span> <span class=\"percent\">(%3$.2f%%)</span>"
+msgstr ""
+
+#: options/fields/cats_multi_select/field_cats_multi_select.php:33
+msgid "Select categories"
+msgstr ""
+
+#: options/fields/cats_multi_select/field_cats_multi_select.php:46
+msgid "Select All"
+msgstr ""
+
+#: options/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr ""
+
+#: options/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr ""
+
+#: options/fields/group/field_group.php:41
+msgid "New"
+msgstr ""
+
+#: options/fields/group/field_group.php:55
+msgid "New "
+msgstr ""
+
+#: options/fields/group/field_group.php:116
+#: options/fields/group/field_group.php:191
+msgid "OK"
+msgstr ""
+
+#: options/fields/group/field_group.php:117
+#: options/fields/group/field_group.php:192
+#: options/google-typography/google-typography.php:307
+msgid "Delete"
+msgstr ""
+
+#: options/fields/group/field_group.php:197
+msgid "Add"
+msgstr ""
+
+#: options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr ""
+
+#: options/fields/sidebars_select/field_sidebars_select.php:53
+msgid "No Sidebar"
+msgstr ""
+
+#: options/fields/upload/field_upload.php:41
+msgid "Browse"
+msgstr ""
+
+#: options/fields/upload/field_upload.php:42
+msgid "Remove Upload"
+msgstr ""
+
+#: options/google-typography/google-typography.php:139
+msgid "Adding A Collection"
+msgstr ""
+
+#: options/google-typography/google-typography.php:140
+msgid ""
+"To add a new font for use on your site. Click the \"Add New\" button on the "
+"top left of the page near the \"Google Typography\" title."
+msgstr ""
+
+#: options/google-typography/google-typography.php:141
+msgid ""
+"Once added, a new font row will appear on the page below. Next you can "
+"continue to customize your font (more info in the \"Customizing\" help tab)."
+msgstr ""
+
+#: options/google-typography/google-typography.php:143
+msgid "Customizing"
+msgstr ""
+
+#: options/google-typography/google-typography.php:144
+msgid ""
+"Customizing fonts is easy; after adding a new font row you can then "
+"customize the following font attributes:"
+msgstr ""
+
+#: options/google-typography/google-typography.php:145
+msgid "Preview Text"
+msgstr ""
+
+#: options/google-typography/google-typography.php:145
+msgid ""
+"Used for live previewing your changes. This text does not appear anywhere on "
+"your website."
+msgstr ""
+
+#: options/google-typography/google-typography.php:145
+msgid "Font Family"
+msgstr ""
+
+#: options/google-typography/google-typography.php:145
+msgid ""
+"The font family to use for this font. Choose from a real-time list of all "
+"available Google Fonts."
+msgstr ""
+
+#: options/google-typography/google-typography.php:145
+msgid "Font Variant"
+msgstr ""
+
+#: options/google-typography/google-typography.php:145
+msgid ""
+"The variant to use for this font. Note: Each font has it's own variant "
+"options."
+msgstr ""
+
+#: options/google-typography/google-typography.php:145
+msgid "Font Size"
+msgstr ""
+
+#: options/google-typography/google-typography.php:145
+msgid "The size you would like this font to be."
+msgstr ""
+
+#: options/google-typography/google-typography.php:145
+msgid "Font Color"
+msgstr ""
+
+#: options/google-typography/google-typography.php:145
+msgid "The color you'd like to use for this font."
+msgstr ""
+
+#: options/google-typography/google-typography.php:145
+#: options/google-typography/google-typography.php:146
+msgid "CSS Selectors"
+msgstr ""
+
+#: options/google-typography/google-typography.php:145
+msgid ""
+"The HTML tags or CSS selectors you'd like this font to apply to (more info "
+"in the \"CSS Selectors\" help tab). You can specify multiple selectors "
+"separated by comma's. Ex: h1, #some_id, .some_class"
+msgstr ""
+
+#: options/google-typography/google-typography.php:147
+msgid ""
+"CSS Selectors are used to hook your font rows into your actual website. Once "
+"you've added, customized, and defined CSS selectors for your fonts, Google "
+"Typography will automatically insert all the necessary CSS into your website."
+msgstr ""
+
+#: options/google-typography/google-typography.php:148
+msgid "Here are some examples of the selectors you can use:"
+msgstr ""
+
+#: options/google-typography/google-typography.php:149
+msgid "IDs"
+msgstr ""
+
+#: options/google-typography/google-typography.php:149
+msgid "#selector"
+msgstr ""
+
+#: options/google-typography/google-typography.php:149
+msgid "Classes:"
+msgstr ""
+
+#: options/google-typography/google-typography.php:149
+msgid ".selector"
+msgstr ""
+
+#: options/google-typography/google-typography.php:149
+msgid "HTML Tags"
+msgstr ""
+
+#: options/google-typography/google-typography.php:149
+msgid "span"
+msgstr ""
+
+#: options/google-typography/google-typography.php:150
+msgid "Example"
+msgstr ""
+
+#: options/google-typography/google-typography.php:150
+msgid "#selector span.date"
+msgstr ""
+
+#: options/google-typography/google-typography.php:178
+msgid "Settings"
+msgstr ""
+
+#: options/google-typography/google-typography.php:291
+#: options/google-typography/google-typography.php:310
+msgid "Theme Typography"
+msgstr ""
+
+#: options/google-typography/google-typography.php:292
+msgid "Loading Your Collections"
+msgstr ""
+
+#: options/google-typography/google-typography.php:293
+msgid "Add New Collection"
+msgstr ""
+
+#: options/google-typography/google-typography.php:294
+msgid "Reset Collections"
+msgstr ""
+
+#: options/google-typography/google-typography.php:295
+msgid "Type in some text to preview..."
+msgstr ""
+
+#: options/google-typography/google-typography.php:296
+msgid "New Collection"
+msgstr ""
+
+#: options/google-typography/google-typography.php:298
+msgid "Preview Background Color"
+msgstr ""
+
+#: options/google-typography/google-typography.php:300
+msgid "Standard Fonts"
+msgstr ""
+
+#: options/google-typography/google-typography.php:301
+msgid "Google Fonts"
+msgstr ""
+
+#: options/google-typography/google-typography.php:302
+msgid "Variant..."
+msgstr ""
+
+#: options/google-typography/google-typography.php:303
+msgid "Size..."
+msgstr ""
+
+#: options/google-typography/google-typography.php:304
+msgid "Backup font:"
+msgstr ""
+
+#: options/google-typography/google-typography.php:305
+msgid "CSS Selectors:"
+msgstr ""
+
+#: options/google-typography/google-typography.php:306
+msgid "Additional CSS:"
+msgstr ""
+
+#: options/google-typography/google-typography.php:311
+msgid "Get started in 3 steps."
+msgstr ""
+
+#: options/google-typography/google-typography.php:312
+msgid "1. Pick A Font"
+msgstr ""
+
+#: options/google-typography/google-typography.php:313
+msgid "Choose from any of the 600+ Google Fonts."
+msgstr ""
+
+#: options/google-typography/google-typography.php:314
+msgid "2. Customize It"
+msgstr ""
+
+#: options/google-typography/google-typography.php:315
+msgid "Pick a size, variant, color and more."
+msgstr ""
+
+#: options/google-typography/google-typography.php:316
+msgid "3. Attach It"
+msgstr ""
+
+#: options/google-typography/google-typography.php:317
+msgid "Attach your font to any CSS selector(s)."
+msgstr ""
+
+#: options/google-typography/google-typography.php:321
+msgid "Character sets"
+msgstr ""
+
+#: options/google-typography/google-typography.php:322
+msgid ""
+"Choose the character sets you wish to include. Please note that not all sets "
+"are available for all fonts."
+msgstr ""
+
+#: options/google-typography/google-typography.php:328
+msgid "Latin"
+msgstr ""
+
+#: options/google-typography/google-typography.php:329
+msgid "Latin Extended"
+msgstr ""
+
+#: options/google-typography/google-typography.php:330
+msgid "Cyrillic"
+msgstr ""
+
+#: options/google-typography/google-typography.php:331
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: options/google-typography/google-typography.php:332
+msgid "Greek"
+msgstr ""
+
+#: options/google-typography/google-typography.php:333
+msgid "Greek Extended"
+msgstr ""
+
+#: options/google-typography/google-typography.php:334
+msgid "Vietnamese"
+msgstr ""
+
+#: options/google-typography/google-typography.php:335
+msgid "Khmer"
+msgstr ""
+
+#: options/google-typography/google-typography.php:336
+msgid "Devanagari"
+msgstr ""
+
+#: options/google-typography/google-typography.php:1012
+msgid ""
+"Are you sure you want to revert to the theme's default collections? Note: "
+"You will lose any custom collections you've created."
+msgstr ""
+
+#: options/google-typography/google-typography.php:1013
+msgid "Are you sure you want to delete this collection?"
+msgstr ""
+
+#: options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: options/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: post-format/format-audio.php:7 post-format/format-video.php:7
+msgid "Please add valid embed Code."
+msgstr ""
