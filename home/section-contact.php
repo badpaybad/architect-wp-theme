@@ -54,7 +54,7 @@ $color_scheme_class = ( $mts_options['mts_homepage_contact_color_scheme'] == 'da
 			</div>
 		<?php }?>
 
-			<? /* php mts_contact_form();*/ ?>
+			<?  php mts_contact_form(); ?>
 		</div>
 	</div>
 </div>
